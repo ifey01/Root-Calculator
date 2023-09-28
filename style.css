@@ -1,0 +1,12 @@
+input:invalid:focus {background-color: rgb(255, 220, 220);}
+
+.container{
+
+    /*add flexbox style*/
+display: inline-flex;
+
+}
+
+.button{
+    margin-block: 1%;
+}
